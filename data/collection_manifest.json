@@ -1,0 +1,20 @@
+{
+  "source": "Google Play:com.application.zomato",
+  "collection_recorded_at": "2026-10-20T16:29:47.450305+00:00",
+  "retrieval_locales": [
+    "mr",
+    "hi",
+    "en"
+  ],
+  "raw_unique_source_records": 300,
+  "unique_imported_texts": 205,
+  "raw_file_sha256": "44f5cb560127697aa5599dda22e9b80abdbf40878d9929f74a96b4a851b9e3a1",
+  "language_estimates_unverified": {
+    "English/unknown": 158,
+    "Hindi-English": 21,
+    "Indic/English ambiguous": 16,
+    "Marathi-English": 10
+  },
+  "human_annotations": 0,
+  "note": "Locale and heuristics do not establish code-mixing. Manual language filtering and independent human annotations required."
+}

@@ -1,0 +1,14 @@
+.venv/
+.vendor/
+.nltk_data/
+data/tmp*/
+__pycache__/
+*.pyc
+data/reviews.sqlite3*
+data/collected_*.csv
+artifacts/
+!docs/
+!docs/*.md
+
+.report_deps/
+reports/qa/
